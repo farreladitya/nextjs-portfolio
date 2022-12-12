@@ -21,7 +21,7 @@ const Projects = () => {
             backgroundImg={tableauImg}
             projectUrl="https://public.tableau.com/app/profile/nazriyah.deny.tsaniyah2274/viz/WWICases_Kelompok03_KCBB/Group03?publish=yes"
             tech="Tableau"
-            desc="Analyze the data to make a recommendation for future action with my team"
+            desc="Analyze the data to make a decision for future action with my team"
           />
           <ProjectItem title="Image Recognition" backgroundImg={pythonImg} projectUrl="https://colab.research.google.com/drive/1iL6tJQvL9BZyOgB6_NNU7OsL3rFFfbjo?usp=sharing" tech="Python" desc="Show information of the uploaded image" />
           <ProjectItem title="Drafta Website" backgroundImg={draftaImg} projectUrl="https://drafta-landing.vercel.app/" tech="Next JS" desc="Make a beautiful website to increase customer interaction" />
