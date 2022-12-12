@@ -17,7 +17,7 @@ const resume = () => {
           <h2 className="text-center">Farrel Istihsan Aditya</h2>
           <div className="flex">
             <a href="https://www.linkedin.com/in/farrelistihsan/" target="_blank" rel="noreferrer">
-              <FaLinkedinIn size={20} style= {{ marginRight: '1rem' }} />
+              <FaLinkedinIn size={20} style={{ marginRight: '1rem' }} />
             </a>
             <a href="https://github.com/farreladitya" target="_blank" rel="noreferrer">
               <FaGithub size={20} style={{ marginRight: '1rem' }} />
@@ -37,8 +37,8 @@ const resume = () => {
           </div>
         </div>
         <p>
-          I'am currently a third-year Information Systems major at Sepuluh Nopember Institute of Technology with prior internship, student study service experience and hackathon participant as backend developer Seeking for a software
-          engineer internship especially at backend developer and data scientist to enrich my experience in the field of data science, web developer and machine learning I'am a self-learner and on-time person with leadership experience
+          I&apos;am currently a third-year Information Systems major at Sepuluh Nopember Institute of Technology with prior internship, student study service experience and hackathon participant as backend developer Seeking for a software
+          engineer internship especially at backend developer and data scientist to enrich my experience in the field of data science, web developer and machine learning I&apos;am a self-learner and on-time person with leadership experience
           through my activities in university which improves my communication skil
         </p>
 
@@ -48,7 +48,7 @@ const resume = () => {
           <p className="italic">
             <span className="font-bold italic">Drafta Indonesia</span>
           </p>
-          <p className="py-1 italic">Front-End Web Developer (02/2022 - Current)</p>
+          <p className="py-1 italic">Front-End Web Developer (02/2022 - Now)</p>
           <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
             <li>Ensured comprehensive responsive UI layouts with understanding of HTML, CSS, JavaScript, Next JS, Tailwind CSS.</li>
             <li>Troubleshoot issues and concerns, configure operation and analytic plugins, and design changes as needed.</li>
