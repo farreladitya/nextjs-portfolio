@@ -5,6 +5,7 @@ import visualImg from '../public/assets/certificates/visual.jpeg';
 import pythonImg from '../public/assets/certificates/python.jpeg';
 import mlImg from '../public/assets/certificates/ml.jpeg';
 import bcaImg from '../public/assets/certificates/bca.jpg';
+import awsImg from '../public/assets/certificates/aws.png';
 import ProjectItem from './ProjectItem';
 
 const Achievement = () => {
@@ -18,6 +19,7 @@ const Achievement = () => {
           <ProjectItem title="Memulai Pemrograman Dengan Python" backgroundImg={pythonImg} projectUrl="https://www.dicoding.com/certificates/JLX1G44QGZ72" desc="Learn about programming using Python for data exploration" />
           <ProjectItem title="Belajar Machine Learning untuk Pemula" backgroundImg={mlImg} projectUrl="https://www.dicoding.com/certificates/1RXYMJ00KXVM" desc="Learn about machine learning to helps any activity based on data" />
           <ProjectItem title="Semi-Finalist Hackathon in BCA 2021" backgroundImg={bcaImg} projectUrl="/" desc="Chosen as one of the semi-finalists who received an offer to work at BCA" />
+          <ProjectItem title="Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)" backgroundImg={awsImg} projectUrl="https://www.dicoding.com/certificates/MRZM4Y8Q3XYQ" desc="Learn about cloud computing from AWS" />
         </div>
       </div>
     </div>
