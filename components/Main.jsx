@@ -16,7 +16,7 @@ const Main = () => {
           </div>
           <h1 className="py-4 text-[#5651e5]">Farrel Istihsan Aditya</h1>
           <h1 className="py-2 text-gray-700">Information Systems ITS 2020</h1>
-          <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">Seeking for a data analyst internship to enrich my experience in the field of data science and machine learning.</p>
+          <p className="py-4 text-gray-600 sm:max-w-[70%] m-auto">Seeking for a web developer and data analyst job to enrich my experience in the field of web developer and machine learning</p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
             <a href="www.linkedin.com/in/farrelistihsan" target="_blank" rel="noreferrer">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300">
