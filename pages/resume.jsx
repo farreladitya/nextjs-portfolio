@@ -37,9 +37,7 @@ const resume = () => {
           </div>
         </div>
         <p>
-          I&apos;am currently a third-year Information Systems major at Sepuluh Nopember Institute of Technology with prior internship, student study service experience and hackathon participant as backend developer Seeking for a software
-          engineer internship especially at backend developer and data scientist to enrich my experience in the field of data science, web developer and machine learning I&apos;am a self-learner and on-time person with leadership experience
-          through my activities in university which improves my communication skil
+          I&apos;am currently a final year Information Systems major at Sepuluh Nopember Institute of Technology with prior internship experience as Big Data Analyst at Toyota Indonesia and frontend developer at Drafta Indonesia. Seeking for internship or full-time experience in the field of frontend developer.
         </p>
 
         <h5 className="text-center underline text-[18px] py-4">Experience</h5>
@@ -53,6 +51,17 @@ const resume = () => {
             <li>Ensured comprehensive responsive UI layouts with understanding of HTML, CSS, JavaScript, Next JS, Tailwind CSS.</li>
             <li>Troubleshoot issues and concerns, configure operation and analytic plugins, and design changes as needed.</li>
             <li>Developing Web‑based design from figma prototype design.</li>
+          </ul>
+        </div>
+        <div className="py-6">
+          <p className="italic">
+            <span className="font-bold italic">Toyota Indonesia</span>
+          </p>
+          <p className="py-1 italic">Big Data Analyst (02/2023 - 08/2023)</p>
+          <ul className="list-disc list-outside px-7 py-1 leading-relaxed">
+            <li>Perform business system analytics and data modelling for compliance website</li>
+            <li>Collaborate with IT Project Management Officer to keep deliverables and on-schedule project</li>
+            <li>Conduct meeting and communicate progress report to Japanese stakeholders in English language.</li>
           </ul>
         </div>
 

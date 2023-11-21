@@ -26,11 +26,12 @@ const About = () => {
             <h3 className="text-lg text-[#5651e5] pt-8 pb-2 font-bold ">Code your dream project</h3>
             <p className="text-gray-700 py-2 ">Do you have an idea for your next great website? Lets make it a reality.</p>
             <h4 className="py-4 text-[#5651e5] font-bold">Tools</h4>
-            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">Next.Js/React</p>
-            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">Spring Boot</p>
-            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">MySQL</p>
+            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">React.JS / Next.JS</p>
             <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">Laravel</p>
             <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">Tailwind</p>
+            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">MySQL</p>
+            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">MongoDB</p>
+            <p className="text-gray-700 font-semibold py-1 dark:text-gray-800">Spring Boot</p>
           </div>
           <div className="text-center shadow-lg p-10 rounded-xl my-3 bg-white  flex-1">
             <Image src={consulting} width={100} height={100} />
