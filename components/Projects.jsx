@@ -17,7 +17,7 @@ const Projects = () => {
         <p className="text-xl tracking-widest uppercase text-[#5651e5]">Projects</p>
         <h2 className="py-4">What I&apos;ve Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
-          <ProjectItem title="Jujurly Website" backgroundImg={jujurlyImg} projectUrl="#" tech="Next.JS & MongoDB" desc="Easiest way to create and participate in vote" />
+          <ProjectItem title="Jujurly Website" backgroundImg={jujurlyImg} projectUrl="https://jujurly-voting-web.vercel.app/" tech="Next.JS & MongoDB" desc="Easiest way to create and participate in vote" />
           <ProjectItem title="Drafta Website" backgroundImg={draftaImg} projectUrl="#" tech="Next.JS" desc="Make a beautiful landing page to increase customer interaction" />
           <ProjectItem title="Sekarwangi Florist Website" backgroundImg={sekarImg} projectUrl="#" tech="Laravel & MySQL" desc="Increase productivity of Sekarwangi Florist and ease the product management" />
           <ProjectItem title="Cari Ikan Website" backgroundImg={cariikanImg} projectUrl="#" tech="Laravel & MySQL" desc="facilitates the relationship between fish sellers and buyers to enrich information about availability of fish in certain place" />
