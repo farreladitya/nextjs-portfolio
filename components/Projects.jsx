@@ -6,8 +6,9 @@ import tableauImg from '../public/assets/projects/tableau.jpg';
 import pythonImg from '../public/assets/projects/python.jpeg';
 import draftaImg from '../public/assets/projects/drafta.jpeg';
 import powerbiImg from '../public/assets/projects/powerbi.jpeg';
-import sekarImg from '../public/assets/projects/sekarwangi.png';
 import jujurlyImg from '../public/assets/projects/jujurly.png';
+import sekarImg from '../public/assets/projects/sekarwangi.png';
+import pmImg from '../public/assets/projects/porto_pm.png';
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -17,6 +18,7 @@ const Projects = () => {
         <p className="text-xl tracking-widest uppercase text-[#5651e5]">Projects</p>
         <h2 className="py-4">What I&apos;ve Built</h2>
         <div className="grid md:grid-cols-2 gap-8">
+          <ProjectItem title="Compliance Website Project Management" backgroundImg={pmImg} projectUrl="https://drive.google.com/file/d/18KQHPQHRfjya0ZSPomFgGvJ4zhOwVTyt/view?usp=sharing" tech="Ms. Excel" desc="Perform Waterfall SDLC for Compliance System Development in Toyota" />
           <ProjectItem title="Jujurly Website" backgroundImg={jujurlyImg} projectUrl="https://jujurly-voting-web.vercel.app/" tech="Next.JS & MongoDB" desc="Easiest way to create and participate in vote" />
           <ProjectItem title="Drafta Website" backgroundImg={draftaImg} projectUrl="#" tech="Next.JS" desc="Make a beautiful landing page to increase customer interaction" />
           <ProjectItem title="Sekarwangi Florist Website" backgroundImg={sekarImg} projectUrl="#" tech="Laravel & MySQL" desc="Increase productivity of Sekarwangi Florist and ease the product management" />
